@@ -1,0 +1,13 @@
+# MultiTask Helper Dependencies
+
+# Core dependencies
+pyperclip>=1.9.0          # Clipboard monitoring
+pywin32>=306              # Windows API access
+psutil>=5.9.0             # Process information
+
+# Optional: For LLM functionality (requires qnn_sample_apps-main)
+# numpy>=1.24.0           # Numerical operations
+# onnxruntime>=1.16.0     # ONNX runtime for LLM
+
+# Development dependencies
+# pytest>=7.4.0          # Testing framework
